@@ -1,0 +1,21 @@
+body{
+    color: alicebluebackground: rgb(15,15,218);
+    background: linear-gradient(90deg, rgba(15,15,218,1) 14%, rgba(23,121,207,1) 89%);;
+}
+.container{
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+.container-form{
+    margin-top: 10%;
+}
+input, select{
+    height: 40px;
+}
+input{
+    width: 400px;
+}
+select{
+    width: 200px;
+}
